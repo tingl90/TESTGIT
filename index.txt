@@ -1,2 +1,1 @@
-fix issue53  -  merge in master 
-change value!
+fix issue53  -  merge in master  (master of dung)
