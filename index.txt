@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 fix issue53  -  merge in master  (master of tin)
-=======
-fix issue53  -  merge in master  (master of dung)
->>>>>>> issue53
+
