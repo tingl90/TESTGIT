@@ -1,1 +1,2 @@
-fix issue53  -  merge in master
+fix issue53  -  merge in master 
+change value!
